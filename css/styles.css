@@ -462,11 +462,4 @@ hr.horizontal-rule {
   }
 }
 
-<script type="text/javascript">
-  /* Demo purposes only */
-$(".hover").mouseleave(
-  function () {
-    $(this).removeClass("hover");
-  }
-);
-</script>
+
